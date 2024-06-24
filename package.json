@@ -1,5 +1,5 @@
 {
-  "name": "unique-id-generator",
+  "name": "unique-id-generator-js",
   "version": "1.0.0",
   "description": "A simple utility to generate unique IDs.",
   "main": "index.js",
