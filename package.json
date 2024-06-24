@@ -1,0 +1,19 @@
+{
+  "name": "unique-id-generator",
+  "version": "1.0.0",
+  "description": "A simple utility to generate unique IDs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alechash/unique-id-generator.git"
+  },
+  "author": "Alec Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alechash/unique-id-generator/issues"
+  },
+  "homepage": "https://github.com/alechash/unique-id-generator#readme"
+}
